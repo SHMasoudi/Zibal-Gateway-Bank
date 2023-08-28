@@ -1,7 +1,7 @@
 # Zibal-Gateway
 
 
-# IRANIAN GATEWAY BANK
+# Iranian banking payment portal
 
 
 

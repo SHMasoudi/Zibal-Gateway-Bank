@@ -10,7 +10,7 @@ import json
 
 
 
-merchant = "64ce02b8cbbc27000d0a6bba"
+merchant = "your merchant or zibal"
 callback_url = "http://127.0.0.1/payment/verify/"
 
 
